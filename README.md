@@ -1,0 +1,2 @@
+# BrowserNote
+Next.js
