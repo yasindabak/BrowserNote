@@ -1,2 +1,2 @@
 # BrowserNote
-Next.js
+Next.js: Shadcn UI + Local Storage
